@@ -6,12 +6,8 @@ Position of the mouse could change both the parameters of music and the position
 
 Tools I used to get this work:
 
-[openFramework](https://github.com/openframeworks/openFrameworks) v0.8.4
-
-[ofxUnitAudio](https://github.com/admsyn/ofxAudioUnit)
-
-[ofxparticleEmitter](https://github.com/sroske/ofxParticleEmitter)
-
-OS X v10.10.2
-
-Xcode v6.1.1
+1. [openFramework](https://github.com/openframeworks/openFrameworks) v0.8.4
+2. [ofxUnitAudio](https://github.com/admsyn/ofxAudioUnit)
+3. [ofxparticleEmitter](https://github.com/sroske/ofxParticleEmitter)
+4. OS X v10.10.2
+5. Xcode v6.1.1
