@@ -11,3 +11,5 @@ Tools I used to get this work:
 3. [ofxparticleEmitter](https://github.com/sroske/ofxParticleEmitter)
 4. OS X v10.10.2
 5. Xcode v6.1.1
+
+Detailed information can be found in this blog post: [ofxAudioUnit + ofxParticleEmitter -> AmplitudeTrigger and ParameterChanger](http://golancourses.net/2015/cl/02/07/ofxaudiounit-ofxparticleemitter-amplitudetrigger-and-parameterchanger/)
